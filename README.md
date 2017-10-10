@@ -11,6 +11,11 @@ sbt analyzer/run
 
 That should print out something like this
 ```
+_root_.scala.collection.JavaConverters
+_root_.scala.collection.convert.AsJavaConverters.asJavaCollection
+_root_.scala.collection.convert.AsJavaConverters.asJavaEnumeration
+
+
 analyzeme/src/main/scala/Test.scala
 -----------------------------------
 Language:
